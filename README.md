@@ -51,4 +51,4 @@ Increasing the scale of inquiry
 
 ## Simulation code
 
-(Supplemental material organized per chapter can be found here)[https://github.com/MarcoDVisser/thesis/tree/master/SupplementalMaterial]
+!(Supplemental material organized per chapter can be found here)[https://github.com/MarcoDVisser/thesis/tree/master/SupplementalMaterial]
