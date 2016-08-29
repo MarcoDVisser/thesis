@@ -6,9 +6,9 @@ TeX code, R scripts and C++ programs associated with my PhD Thesis.
 ### Quicklinks
 
 -   [Abstract](#abstract)
--   [Contents](#Supplemental-Materials)
--   [Supplemental Materials](#Supplemental-Materials)
--   [Simulation code](#Simulation-code)
+-   [Contents](#contents)
+-   [Supplemental Materials](#supplemental-materials)
+-   [Simulation code](#simulation-code)
   
 
 ## Abstract
@@ -50,3 +50,5 @@ Increasing the scale of inquiry
 ## Supplemental Materials
 
 ## Simulation code
+
+(Supplemental material organized per chapter can be found here)[https://github.com/MarcoDVisser/thesis/tree/master/SupplementalMaterial]
