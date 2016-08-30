@@ -16,7 +16,7 @@ TeX code, R scripts and C++ programs associated with my PhD Thesis.
 ## Contents
 
 #### Chapter 1
-A need for integration across scales 
+An exercise in cross scale integration
 
 #### Chapter 2
 Tri-trophic interactions affect density dependence of seed fate in a tropical forest palm. 
