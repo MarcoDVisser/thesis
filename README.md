@@ -44,11 +44,16 @@ Explaining variation among tree species in liana infestation
 Speeding up ecological and evolutionary computations in R; essentials of high performance computing for biologists.
 
 #### Chapter 10
-General discussion
-Increasing the scale of inquiry
+Increasing the scale of inquiry (General discussion).
 
 ## Supplemental Materials
+Supplemental materials, organized per chapter, can be found in this [subfolder](https://github.com/MarcoDVisser/thesis/tree/master/SupplementalMaterial).
 
 ## Simulation code
+An adaptation of the simple patch model by Pacala 1997 in R, with parts refactored in C++ using Rcpp, is given in this [subfolder](https://github.com/MarcoDVisser/thesis/tree/master/R). This (simple) model explores the effects of negative density dependent dispersal as documented by Jansen et al. 2014 on species richness. 
 
-[Supplemental material organized per chapter can be found here](https://github.com/MarcoDVisser/thesis/tree/master/SupplementalMaterial)
+#### References
+
+Jansen PA, Visser MD, Wright SJ, Rutten G, Muller-Landau H (2014). Negative density-dependence of seed dispersal and seedling recruitment in a Neotropical palm. Ecology Letters. 17:1111–1120. DOI
+
+Pacala, S.W. (1997). Dynamics of plant communities. In: Plant Ecology. pp. 532-555.
