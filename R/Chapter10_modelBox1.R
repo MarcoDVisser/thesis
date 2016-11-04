@@ -125,7 +125,7 @@ if(CPP){
 require(Rcpp)
 require(RcppArmadillo)
 require(inline)
-sourceCpp("./R/PacalaModel.cpp")
+sourceCpp("./R/Chapter10_modelBox1.cpp")
 }
 
 
