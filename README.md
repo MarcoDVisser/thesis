@@ -13,6 +13,10 @@ TeX code, R scripts and C++ programs associated with my PhD Thesis.
 
 ## Abstract
 
+Tropical forests are so rich in tree species that we don't even know how may tree species exist, and identifying the mechanisms structure this diversity has long challenged ecologists. Ample interest in the subject has generated a vast body of work on the topic of diversity maintenance. However, previous work has almost exclusively focused on the fine spatial scales and limited levels of biological organization - such as a single trophic level and life stage.  Yet do processes relevant at a single spatial, temporal or organizational scale translate across scales? The overarching theme of this thesis is to scale up processes across spatial and organizational scales, and to evaluate whether and how processes at fine scales translate to higher levels of organization.
+
+Investigations focus on Barro Colorado Island in the Republic of Panama, one of the most intensely studied tropical forests in existence.  In general, 8 chapters integrate several large-scale datasets looking at ecological patterns, such as negative density dependence and trade-offs, over many hectares of forests and across multiple life stages and vital rates. Two general scientific approaches are used. The first is a model system of the palm Attalea butyracea, studied on large spatial scales and for all life-stages (Chapters 2-4).  The second approach is a cross-species comparison, where 7 datasets are integrated that included millions of observations, spanning three decades, from seeds to forest giants (Chapters 5-8).   All chapters taken together demonstrate that scale can have a profound influence on how we interpret results and understand links between processes operating at different levels (reviewed in chapter 10).  Clear patterns at one scale may crumble to noise at another, only a handful of lower-level and fine scale processes may be influential at larger scales, and that abstraction toward larger scales tends to increase predictably.
+
 ## Contents
 
 #### Chapter 1
